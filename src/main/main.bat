@@ -25,7 +25,7 @@ rem   SOFTWARE.
 
 rem   set variables, the guid's are taken from gus3000's bluepill.
 
-rem   generics
+rem   generic vars
 
 set ver=bluelock v1
 set ntver=6.1
